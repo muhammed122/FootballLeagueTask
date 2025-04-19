@@ -62,3 +62,13 @@ domain ├── UseCases & Business Models
 - ✅ Custom fake data sources for reliable testing
 
 ---
+## 📱 Screenshots
+
+| Home Screen                        | Expanded View                      |
+|-----------------------------------|------------------------------------|
+| ![Home](screenshots/home.png)     | ![Expanded](screenshots/home_expanded.png) |
+
+### 🏆 Competition Details
+
+![Details](screenshots/details.png)
+
